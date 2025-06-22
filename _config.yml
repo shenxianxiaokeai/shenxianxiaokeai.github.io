@@ -22,7 +22,7 @@ repository               : "shenxianxiaokeai/shenxianxiaokeai.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "xiaokeai.png"
   name             : "Yuxian Ke(柯昱贤)"
   # pronouns         : # example: "she/her"  
   # bio              : "Short biography for the left-hand sidebar"
