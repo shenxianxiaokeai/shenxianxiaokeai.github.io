@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[Download my 简历 (PDF)](assets/keyuxianjianli.pdf)
+[📄 点击下载我的简历 (PDF)](https://shenxianxiaokeai.github.io/assets/keyuxianjianli.pdf)
